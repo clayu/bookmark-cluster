@@ -1,0 +1,15 @@
+Just wanted to clarify that you are not comparing apple to apples. First of all, PHP is a programming language while JavaServer Pages (JSP) and ASP. NET are not. Let's get that straightened out first.
+
+JSP is a technology that helps software developers create dynamically generated web pages based on HTML, XML. It uses the Java programming language.
+
+ASP. NET is a server-side web application framework, and most developers using it use the C# programming language to code with it.
+
+Also worth mentioning, a lot of people here make mentioned of PHP being open sourced as a differentiation among the three... ASP. NET is also a series of open source projects, look here (Open Source) or here (aspnet/Home) or here (Open Source Foundation for the .NET Community).
+
+Now that we got that out of the way... perhaps the question should be about PHP, Java and C# or about their more popular web frameworks such as Laravel or CakePHP for PHP, Spring for Java and ASP. NET for C#.
+
+In the end I think you should use the right programming language/web framework based on the project and the resources at hand. PHP is very simple to use but it is also very easy to create security vulnerabilities. The language itself is not the problem but its flexibility allows for programmers to code insecure code which is the reason that about 30% of all vulnerabilities listed since 1996 in the National Vulnerability Database database are linked to PHP (source: PHP) 
+
+If you want to build a blog or a basic CRUD application then you can probably get started and finish potentially faster using PHP. However, if you are going to be building an enterprise-level application where you will end up with a large team of developers working on it and it is complex and you need to have room to scale, then I (personally) will choose either Java or .NET (ASP. NET/C#).
+
+Good luck.

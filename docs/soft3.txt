@@ -1,0 +1,1 @@
+I start with a working prototype, which I find I can often knock together in a couple of hours using Django. Having a functional (albeit buggy, ugly and insecure) prototype makes it much easier for me to start to reason about the larger application. There's not much point in coming up with a comprehensive architecture plan only to find out you're building the wrong thing!

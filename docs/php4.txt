@@ -1,0 +1,3 @@
+PHP is largely preferred among new developers as it has tons more online resources, documents and tutorials than its competitors. It is also cheaper to set up and install and there are many third party local host LAMP packages, which allows someone to use PHP without sharing or buying a server
+
+For these reasons I believe php is stronger and growing more stronger in popularity than the the other two.

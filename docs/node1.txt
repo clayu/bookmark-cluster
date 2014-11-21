@@ -1,0 +1,5 @@
+It would definitely be possible.  In fact, writing a backend for a basic Twitter clone in Node.JS would be relatively trivial.  
+
+But would it be faster?  Well, Twitter was originally written as a Ruby on Rails app.  They later rewrote the entire system in Scala, and it now runs on the JVM.  This resulted in a 100x performance increase (The RoR app was handling 200-300 request per second per host, while the JVM app is handling 10k- 20k requests per second on the same hosts.) 
+
+It is very safe to say that by writing the app in Node, they could easily beat the speed of RoR, which is painfully slow and not great at concurrency.  But I am not at all sure they could beat the speed of the Scala / Java app, which is running very fast.

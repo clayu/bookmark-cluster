@@ -1,0 +1,7 @@
+No.   If you mean 'is PHP going to be bigger than JSP and .Net', then it already technically is bigger than both (more sites run on PHP than any other language).
+
+If you mean, 'is PHP the right technology to learn now to secure my developing future' then that's totally up to you.  PHP isn't going anywhere for a long time and being successful at a technology has everything to do with your talent and effort at applying yourself to it.
+
+If you mean 'is PHP going to be seen as the weapon-of-choice for web app developers everywhere' then I would say that that is unlikely, since Javascript is such an excellent candidate.  More importantly, Javascript's supersets, like TypeScript, CoffeeScript and Dart are all ways of avoiding some of JS's problems (which are mainly human errors, but easily made if you are, y'know, human), making it more like a traditional webserver-side language with classes/typing, interfaces and even generics (in TypeScript).
+
+None of the features of .Net, JSP and PHP make them 'better' than any other, it's about providing the right feature-set for your solution.  JS provides a lot of 'ticks' in a lot of boxes, but as a server-side language it needs the supersets (i.e. the benefits of compile-time checking and IDE tools) to get into the ring with the big boys.  It's a rapidly growing ecosystem and the convenience of a single language on both the client and server is a hard one to ignore.

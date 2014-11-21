@@ -1,0 +1,5 @@
+I have an answer to a very similar question here: What's an efficient web app development process?
+
+The short of it is: don't try to sit down and work out all the requirements at once. Take a pass at the high level goals, and work iteratively on small, individual, demoable features - from UI all the way down to the database. This allows for your app to change as requirements change, which is bound to happen once you put your software in front of users.
+
+So instead of thinking about "What part of the technology should I build first?", think about "What feature do I want to deliver first?"

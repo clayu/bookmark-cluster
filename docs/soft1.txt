@@ -1,0 +1,5 @@
+The 37Signals guys advocate starting with design, created in HTML. Get it generally looking (and more importantly flowing) how you want it to before passing over to development, and then working collaboratively with the developer in tandem, adding polish and refining as they build in the business logic.
+
+The benefits here are that you see the site working in a browser (i.e. you're able to click around and see how it "feels") before you've done the expensive work of development. It's much easier to make changes in HTML than in the application logic. 
+
+It's also helpful because it can often address feature creep - by focusing on the interface first you discover that many of the features that people might have been advocating for (because it's painless to add a bullet to a Word document) really don't make sense in the interface. The result is an application that is much more in line with what users true needs are.

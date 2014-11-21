@@ -1,0 +1,5 @@
+Yes, I also think that PHP has much brighter future than other two, because of large scale implementation, simplicity, opensource nature.
+
+JSP is almost vanished, due to Javascript integration on large scale..
+
+ASP on the other hand, got a big boss back, so it also has a good share out there, especially in corporate sector, plus part of .Net, many .net developers feel comfortable to develop for it.., I think, that graph is not showing correct statistics about ASP...

@@ -1,0 +1,7 @@
+Contrary to most of the other answers listed here, the answer is simple:
+
+You can't.  Not reliably. 
+
+Predictions of future stock prices by "experts" have been shown to have no better success rate than random guesses. Anyone who can consistently predict the future value of stocks would be extremely wealthy and certainly would not share their secret with anyone else. 
+
+Granted, you may make educated guess at where the market is likely to head based on research and assumptions about future market demands, but bear in mind that you are competing against "the market" (the sum of all the other market managers out there) which is already pricing those same assumptions about the future into the price.
